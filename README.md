@@ -1,67 +1,92 @@
 # Hi, I'm Jouni 👋
 
-I'm a **Software Developer** from Finland focused on full-stack web development.
+I'm a **Full Stack Developer** from Helsinki, Finland.
 
-I enjoy building practical applications from frontend interfaces to backend APIs and databases. I'm especially interested in **React, Node.js, Python/Django and PostgreSQL**.
+I build practical web applications end to end, from React interfaces to Node.js and Django APIs, PostgreSQL databases, authentication and deployment. I've been coding since 2017, and from 2022 to 2026 I ran my own company, **Plantor Oy**, where I was responsible for all development: websites, admin tools, order tracking, login systems and forms for clients.
 
-Currently, I'm looking for opportunities as a **Junior Software Developer / Full Stack Developer**.
+Lately I've been building with **AI integrations and market data**, and I'm currently open to **Full Stack / Software Developer** roles.
 
-🌐 **[Visit my Portfolio](https://joedelord.github.io/)**
-💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/jouni-sepp%C3%A4nen-60834b249/)**
+🌐 **[Portfolio](https://joedelord.github.io/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/jouni-sepp%C3%A4nen-60834b249/)**
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Databases & Tools
+### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Testing & Tools
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Also familiar with: TypeScript, Java, AWS and Azure (basics).
 
 ## 🚀 Featured Projects
+
+### 📈 Stock Market AI Agent *(in progress)*
+
+Tracks Helsinki, US and European stocks with 15-minute price data and AI-generated analysis. Built with **React, Node.js, Express and PostgreSQL**, using the Twelve Data API and LLM analysis via Groq.
+
+* Scheduled data collection that follows each exchange's trading hours, time zones and market holidays
+* Price charts with daily and intraday changes
+* AI analysis of price movements
+* User accounts, personal watchlists and configurable price alerts
+* Stock search and authenticated stock management
+
+[View project →](https://github.com/joedelord/stock-market-ai-agent)
 
 ### 🍽️ Restaurant Reservation & Management System
 
 Full-stack restaurant application built with **Django REST Framework, React and PostgreSQL**.
 
-* JWT authentication
-* Role-based authorization
-* Restaurant reservations
+* JWT authentication and role-based authorization
+* Table reservations
 * Menu and order management
 * REST API
 
-[View project →](https://github.com/joedelord/restaurant-app)
+[Live demo →](https://restaurant-app-two-red.vercel.app/) · [View project →](https://github.com/joedelord/restaurant-app)
 
 ### 🔐 React + Node.js Authentication Template
 
-Reusable authentication system built with **React, Node.js, Express and PostgreSQL**.
+Reusable authentication foundation built with **React, Node.js, Express and PostgreSQL**. It's also the base for the Stock Market AI Agent.
 
-* Authentication and protected routes
-* Role-based authorization
+* Registration, login and logout with HttpOnly JWT cookies
+* User, moderator and admin roles with protected routes
 * Admin user management
-* REST API
-* Frontend and backend testing
+* Database migrations, Zod validation, Helmet and rate limiting
+* Backend and frontend tests with Vitest, Supertest and React Testing Library
+
+[View project →](https://github.com/joedelord/react-node-postgres-auth-template)
 
 ## 🤝 Let's Connect
 
-I'm currently open to **Junior Software Developer / Full Stack Developer opportunities**.
+I'm open to **Full Stack / Software Developer** opportunities. Feel free to reach out!
 
 🌐 [Portfolio](https://joedelord.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/jouni-sepp%C3%A4nen-60834b249/)
