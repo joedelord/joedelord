@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** from Helsinki, Finland.
 
 I build practical web applications end to end, from React interfaces to Node.js and Django APIs, PostgreSQL databases, authentication and deployment. I've been coding since 2017, and from 2022 to 2026 I ran my own company, **Plantor Oy**, where I was responsible for all development: websites, admin tools, order tracking, login systems and forms for clients.
 
-Lately I've been building with **AI integrations and market data**, and I'm currently open to **Full Stack / Software Developer** roles.
+Lately I've been building and shipping an **AI-powered stock market app** to production, and I'm currently open to **Full Stack / Software Developer** roles.
 
 🌐 **[Portfolio](https://joedelord.github.io/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/jouni-sepp%C3%A4nen-60834b249/)**
 
@@ -45,22 +45,26 @@ Lately I've been building with **AI integrations and market data**, and I'm curr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 Also familiar with: TypeScript, Java, AWS and Azure (basics).
 
 ## 🚀 Featured Projects
 
-### 📈 Stock Market AI Agent *(in progress)*
+### 📈 Stock Market AI Agent
 
-Tracks Helsinki, US and European stocks with 15-minute price data and AI-generated analysis. Built with **React, Node.js, Express and PostgreSQL**, using the Twelve Data API and LLM analysis via Groq.
+Follows US stocks (Nasdaq and NYSE) with 15-minute price data and explains price moves with AI. Built with **React, Node.js, Express and PostgreSQL**, using the Twelve Data API and LLM analysis via Groq, and deployed on Railway.
 
-* Scheduled data collection that follows each exchange's trading hours, time zones and market holidays
-* Price charts with daily and intraday changes
-* AI analysis of price movements
-* User accounts, personal watchlists and configurable price alerts
-* Stock search and authenticated stock management
+* Market-hours scheduler that knows trading hours, time zones, market holidays and early closes
+* Intraday price charts, personal watchlists and AI analysis that compares the day's trading activity with recent history
+* Price alerts delivered in the app and by email, with one-click unsubscribe
+* Opt-in daily summary email of each user's watchlist, with AI explanations of the day's unusual moves
+* Admin stock search and management, user accounts, roles and email verification
+* Production setup: Docker, GitHub Actions CI, Sentry error tracking, and uptime and heartbeat monitoring
 
-[View project →](https://github.com/joedelord/stock-market-ai-agent)
+[Live demo →](https://stock-market-ai-agent-production.up.railway.app/) · [View project →](https://github.com/joedelord/stock-market-ai-agent)
+
 
 ### 🍽️ Restaurant Reservation & Management System
 
